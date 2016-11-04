@@ -1,0 +1,37 @@
+{
+  "name": "angular2-mean-blog",
+  "version": "0.0.2",
+  "description": "Small blog made with MEAN stack (including Angular2)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Messier82/angular2-mean-blog.git"
+  },
+  "keywords": [
+    "angular2",
+    "mean",
+    "mongodb",
+    "mongoose",
+    "nodejs",
+    "blog"
+  ],
+  "author": "Messier82",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Messier82/angular2-mean-blog/issues"
+  },
+  "homepage": "https://github.com/Messier82/angular2-mean-blog#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.6",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  }
+}
